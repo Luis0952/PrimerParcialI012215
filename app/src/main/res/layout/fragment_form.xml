@@ -56,7 +56,8 @@
         android:layout_width="match_parent"
         android:theme="@style/RaisedButtonDark"
         android:text="@string/str_btn"
-        android:background="#D32F2F"/>
+        android:background="#D32F2F"
+        android:layout_marginBottom="10dp"/>
 
         <Button android:layout_height="wrap_content"
             android:layout_width="match_parent"
