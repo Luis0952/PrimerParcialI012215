@@ -6,4 +6,9 @@
     <string name="str_1">Jonathan Mideros</string>
     <string name="str_2">Ingeniero de Sistemas</string>
     <string name="str_3">jamideros@hotmail.com</string>
+    <string name="str_nom">Nombres</string>
+    <string name="str_ape">Apellidos</string>
+    <string name="str_tel">Telefono</string>
+    <string name="str_btn">Crear Cuenta</string>
+    <string name="str_btn2">Ingresar a la Cuenta</string>
 </resources>
